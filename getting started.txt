@@ -1,0 +1,5 @@
+Download Docker & Docker-compose
+
+Download a web browser with the linux beta
+
+Run ./start.sh for starting the server and ./shutdown for shutting it down.
