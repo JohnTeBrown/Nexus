@@ -1,0 +1,26 @@
+body {
+	background-color: gray;
+}
+
+li {
+  float: left;
+  color: gray;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+h2.whitespace {
+color: white;
+}
+#terminal {
+    background-color: #000;
+    color: #0f0;
+    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: 14px;
+    padding: 10px;
+}
+
